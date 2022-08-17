@@ -2,7 +2,7 @@
 
 [<img src="oweis_pic.jpg" width="300"/>](oweis_pic.jpg)
 
-Software and DevOps Engineer • B.Sc. Computer Engineering • Born 26.06.1994 • Lives in [Frankfurt am Main] • Email: [oalagtash@gmail.com]
+Software and DevOps Engineer • B.Sc. Computer Engineering • Born 1994 • Lives in [Frankfurt am Main] • Email: [oalagtash@gmail.com]
 
 [LinkedIn] | [github]
 
